@@ -4,4 +4,4 @@
 This is a simple directive of toggler.
 
 
-Link to plunker  https://plnkr.co/users/saiprasaddevare/plunks
+Link to plunker  https://plnkr.co/w76QMggpaxeQRecEnHxl
